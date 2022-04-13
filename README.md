@@ -26,3 +26,5 @@ Here are some ideas to get you started:
     </tr>
 
 </table>
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=manfredmichael&theme=react-dark&bg_color=151515" />
