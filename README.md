@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   
   
-### Hello!<img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Manfred Michael here!
+### Hello! Manfred Michael here <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
 
 
 I’m a 3rd year CS student and a Machine Learning freelancer on Object Detection & System Recommendation. Professionally, I use Pytorch & Tensorflow. Personally, I love creating stuffs from scratch to gain an intuitive understanding or just for the satisfaction. I have a personal mission to make ML more accessible for starters. I sometimes voluneer myself as speaker in various workshops. I also love to automate things. I saved hours of manual work in my organization and my discord bot is helping students remember their deadlines in 50+ discord servers. 
