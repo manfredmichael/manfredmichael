@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **manfredmichael/manfredmichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
-    <tr>
-        <td>
-            <img align='right' src = "https://github-readme-stats.vercel.app/api?username=manfredmichael&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
-        </td>
-         <td>
-            <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=manfredmichael&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
-        </td>
-    </tr>
 
-</table>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=manfredmichael&theme=react-dark&bg_color=151515" />
+<div align="center">
+  
+  
+### Hello!<img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Manfred Michael here!
+
+
+I’m a 3rd year CS student and a Machine Learning freelancer on Object Detection & System Recommendation. Professionally, I use Pytorch & Tensorflow. Personally, I love creating stuffs from scratch to gain an intuitive understanding or just for the satisfaction. I have a personal mission to make ML more accessible for starters. I sometimes voluneer myself as speaker in various workshops. I also love to automate things. I saved hours of manual work in my organization and my discord bot is helping students remember their deadlines in 50+ discord servers. 
+<br/>
+
+####  Contact Me!
+<a href="https://www.instagram.com/this.manfred/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/manfredmichael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.kaggle.com/awesomehidingspot"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<br/>
+</div>
