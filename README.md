@@ -25,8 +25,8 @@ I’m a 3rd year CS student and a Machine Learning freelancer. Professionally, I
 <br/>
 
 ####  Contact Me!
-<a href="https://www.instagram.com/this.manfred/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/manfredmichael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.kaggle.com/awesomehidingspot"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<a href="https://www.instagram.com/this.manfred/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/manfredmichael/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.kaggle.com/awesomehidingspot" target="_blank" ><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <br/>
 </div>
