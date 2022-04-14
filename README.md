@@ -30,3 +30,18 @@ I’m a 3rd year CS student and a Machine Learning freelancer. Professionally, I
 <a href="https://www.kaggle.com/awesomehidingspot" target="_blank" ><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <br/>
 </div>
+
+
+### 🌟 Github Stats
+<br/>
+<div align="center">
+  <table>
+      <tr>
+          <td><img align="left" alt="Manfred Github Stats" src="https://github-readme-stats.vercel.app/api?username=manfredmichael&show_icons=true">
+          </td>
+          <td>
+          <img align="left" alt="Manfred Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manfredmichael&layout=compact">
+          </td>
+      </tr>
+  </table>
+</div>
