@@ -25,10 +25,15 @@ Here are some ideas to get you started:
   
 It all started on 2020 when I created lots of stupid AI games during quarantine. It was more about the curiousity than boredom really. Soon I realize that not all of my gabut projects were useless. Some have reduced hours of manual work in my organization to just one button click, another has helped my friends and me [getting higher GPA](https://github.com/manfredmichael/ug-minibot-discord/) in college.
   
-####  Whad I do?
+<details align="center" id="What I do?">
+  <summary><b>What I do?</b></summary>
   
 I'm a GDSC ML Supervisor which basically means I teach weekly classes to 300+ participants and hold monthly tech talks inviting GDE & other expert talents in tech industry. I also do freelance ML projects on the side.
- 
+  
+</details>
+
+<br/>
+  
 <!--
 I’m a 3rd year CS student and a Machine Learning freelancer. Professionally, I use Pytorch & Tensorflow. Personally, I love creating stuffs from scratch to gain an intuitive understanding or just for the satisfaction. I have a personal mission to make ML more accessible for starters. I sometimes voluneer myself as speaker in various workshops. I also love to automate things. I saved hours of manual work in my organization and my discord bot is helping students remember their deadlines in 50+ discord servers. 
 <br/>
