@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
   
 # Manfred Michael here <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
-###### GDSC ML Supervisor | Bangkit ML Cohort | ML Freelancer
+##### GDSC ML Supervisor | Bangkit ML Cohort | ML Freelancer
   
 <br/>
   
