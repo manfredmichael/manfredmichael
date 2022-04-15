@@ -72,21 +72,18 @@ I'm a GDSC ML Supervisor which basically means I teach weekly classes to 300+ pa
 <br/>
 </div>
 
-<!--
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manfredmichael">
-<img src="https://activity-graph.herokuapp.com/graph?username=manfredmichael&theme=minimal">
--->
 
 ### 🌟 Github Stats
 <br/>
 <div align="center">
   <table>
       <tr>
-          <td><img align="left" alt="Manfred Github Stats" src="https://github-readme-stats.vercel.app/api?username=manfredmichael&show_icons=true">
+          <td>
+            <img align="left" alt="Manfred Github Stats" src="https://github-readme-stats.vercel.app/api?username=manfredmichael&show_icons=true">
           </td>
           <td>
           <img align="left" alt="Manfred Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manfredmichael&layout=compact">
           </td>
       </tr>
-  </table>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=manfredmichael">
 </div>
