@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <div align="center">
   
   
@@ -33,13 +31,40 @@ I'm a GDSC ML Supervisor which basically means I teach weekly classes to 300+ pa
 </details>
 
 <br/>
-  
-<!--
-I’m a 3rd year CS student and a Machine Learning freelancer. Professionally, I use Pytorch & Tensorflow. Personally, I love creating stuffs from scratch to gain an intuitive understanding or just for the satisfaction. I have a personal mission to make ML more accessible for starters. I sometimes voluneer myself as speaker in various workshops. I also love to automate things. I saved hours of manual work in my organization and my discord bot is helping students remember their deadlines in 50+ discord servers. 
-<br/>
--->
 
-####  Contact Me!
+####  Technologies & Tools
+
+<!--Python-->
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<!--Java-->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
+<!--Javascript-->
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<!--C++-->
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<!--Git-->
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<!--Google Cloud-->
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+<!--Heroku-->
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+<!--Tensorflow-->
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<!--Pytorch-->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<!--Scikit-learn-->
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<!--Open CV-->
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"> 
+<!--Keras-->
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+<!--Arch Linux-->
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+<!--Ubuntu-->
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+
+#### Connect with me!
   
 <a href="https://www.instagram.com/this.manfred/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/manfredmichael/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -47,6 +72,10 @@ I’m a 3rd year CS student and a Machine Learning freelancer. Professionally, I
 <br/>
 </div>
 
+<!--
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manfredmichael">
+<img src="https://activity-graph.herokuapp.com/graph?username=manfredmichael&theme=minimal">
+-->
 
 ### 🌟 Github Stats
 <br/>
