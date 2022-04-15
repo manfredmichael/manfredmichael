@@ -17,18 +17,20 @@ Here are some ideas to get you started:
   
   
 # Manfred Michael here <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
-#### GDSC ML Supervisor | Bangkit ML Cohort | ML Freelancer
+###### GDSC ML Supervisor | Bangkit ML Cohort | ML Freelancer
   
 <br/>
   
 It all started on 2020 when I created lots of stupid AI games during quarantine. It was more about the curiousity than boredom really. Soon I realize that not all of my gabut projects were useless. Some have reduced hours of manual work in my organization to just one button click, another has helped my friends and me [getting higher GPA](https://github.com/manfredmichael/ug-minibot-discord/) in college.
   
+<!--
 <details align="center" id="What I do?">
   <summary><b>What I do?</b></summary>
   
 I'm a GDSC ML Supervisor which basically means I teach weekly classes to 300+ participants and hold monthly tech talks inviting GDE & other expert talents in tech industry. I also do freelance ML projects on the side.
   
 </details>
+-->
 
 <br/>
 
@@ -80,10 +82,13 @@ I'm a GDSC ML Supervisor which basically means I teach weekly classes to 300+ pa
       <tr>
           <td>
             <img align="left" alt="Manfred Github Stats" src="https://github-readme-stats.vercel.app/api?username=manfredmichael&show_icons=true">
-          </td>
+          </td>        
           <td>
-          <img align="left" alt="Manfred Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manfredmichael&layout=compact">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=manfredmichael">
           </td>
       </tr>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=manfredmichael">
 </div>
+  
+<!--
+<img align="left" alt="Manfred Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manfredmichael&layout=compact">
+-->
