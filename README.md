@@ -71,6 +71,7 @@ I'm a GDSC ML Supervisor which basically means I teach weekly classes to 300+ pa
 <a href="https://www.instagram.com/this.manfred/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/manfredmichael/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.kaggle.com/awesomehidingspot" target="_blank" ><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<a href="https://gdsc.community.dev/gunadarma-university/" target="_blank" ><img src="https://img.shields.io/badge/-Google%20DSC-blue?style=for-the-badge&logo=google&logoColor=white"></a>
 <br/>
 </div>
 
