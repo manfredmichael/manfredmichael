@@ -59,7 +59,11 @@ I'm a GDSC ML Supervisor which basically means I teach weekly classes to 300+ pa
 <!--Open CV-->
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"> 
 <!--Keras-->
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> 
+<!--Processing-->
+<img src="https://img.shields.io/badge/Processing-430098?style=for-the-badge&logo=processingfoundation&logoColor=white">
+<!--P5.js-->
+<img src="https://img.shields.io/badge/p5.js-ec235b?style=for-the-badge&logo=p5dotjs&logoColor=white">
 <!--Arch Linux-->
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 <!--Ubuntu-->
