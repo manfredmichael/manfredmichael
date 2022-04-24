@@ -34,7 +34,8 @@ I'm a GDSC ML Supervisor which basically means I teach weekly classes to 300+ pa
 
 <br/>
 
-####  Technologies & Tools
+<details align="center" id="Technologies & Tools">
+  <summary><b>Technologies & Tools</b></summary>
 
 <!--Python-->
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -69,7 +70,8 @@ I'm a GDSC ML Supervisor which basically means I teach weekly classes to 300+ pa
 <!--Ubuntu-->
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
-
+</details>
+  
 #### Connect with me!
   
 <a href="https://www.instagram.com/this.manfred/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
