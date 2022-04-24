@@ -96,6 +96,6 @@ I'm a GDSC ML Supervisor which basically means I teach weekly classes to 300+ pa
       </tr>
 </div>
   
-<!--
+
 <img align="left" alt="Manfred Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manfredmichael&layout=compact">
--->
+
