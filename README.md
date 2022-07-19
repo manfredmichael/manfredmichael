@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 <br/>
   
-It all started on 2020 when I created lots of stupid AI games during quarantine. It was more about the curiousity than boredom really. Soon I realize that not all of my gabut projects were useless. Some have reduced hours of manual work in my organization to just one button click, another has helped my friends and me [getting higher GPA](https://github.com/manfredmichael/ug-minibot-discord/) in college.
+It all started on 2020 when I created lots of stupid AI to play games during quarantine. It was more about the curiousity than boredom really. Soon I realize that not all of my gabut projects were useless. Some have reduced hours of manual work in my organization to just one button click, another has helped my friends and me [getting higher GPA](https://github.com/manfredmichael/ug-minibot-discord/) in college.
   
 <!--
 <details align="center" id="What I do?">
